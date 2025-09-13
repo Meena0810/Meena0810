@@ -43,7 +43,7 @@
 <td width="40%" align="center">
 
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
-  alt="Software Developer Animation" width="250" style="border-radius:8px;" />
+  alt="Software Developer Animation" width="350" style="border-radius:8px;" />
 
 </td>
 </tr>
@@ -52,25 +52,14 @@
 
 ---
 
-## 🛠️ Languages & Tools
-<div style="border:2px solid #e6e6e6; border-radius:10px; padding:15px; background:white; box-shadow:0px 4px 10px rgba(0,0,0,0.1);">
-
+<h2 align="center"> 🛠️ Languages & Tools </h2>
+<br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin:10px;" />
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,javascript,css,express,nextjs,java,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,vscode,figma" />
 
-</div>
-
----
+  </a>
 
 ## 📊 GitHub Stats
 <div style="border:2px solid #e6e6e6; border-radius:10px; padding:15px; background:white; box-shadow:0px 4px 10px rgba(0,0,0,0.1);">
