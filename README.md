@@ -1,18 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Meena0810/Meena0810/main/avatar.png" 
-       alt="Avatar" 
-       width="150" 
-       height="150" 
-       style="border-radius:50%; border:3px solid #FF5733; box-shadow:0 4px 12px rgba(0,0,0,0.2);" />
-</p>
-
 
 <h1 align="center">
   👋 Hi, I'm <b>Sugantha Meena</b>
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=A+Passionate+Frontend+Developer;Always+Learning+%26+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=A+Passionate+Software+Developer;Always+Learning+%26+Building" alt="Typing Animation" />
 </h3>
 
 
